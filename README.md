@@ -1,5 +1,6 @@
 # redmine_agile
-- version 1.6.3
+- version 1.6.4
+- Redmine version 5.0.5.stable
 - Check version link: https://www.redmineup.com/pages/plugins/agile/updates
 ## Install plugin
 ````
